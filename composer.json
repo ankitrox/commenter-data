@@ -1,11 +1,13 @@
 {
     "name": "commenter-data/commenter-data",
-    "description": "Downloads commenter data in csv format for wordpress sites.",
+    "description": "A WordPress plugin which Downloads commenter data in csv f",
+    "license": "2.0",
     "authors": [
         {
             "name": "Ankit Gade",
-            "email": "ankit.ct@gmail.com"
+            "email": "alnobody70@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
