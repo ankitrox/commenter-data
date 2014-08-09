@@ -1,3 +1,11 @@
 {
+    "name": "commenter-data/commenter-data",
+    "description": "Downloads commenter data in csv format for wordpress sites.",
+    "authors": [
+        {
+            "name": "Ankit Gade",
+            "email": "ankit.ct@gmail.com"
+        }
+    ],
     "require": {}
 }
